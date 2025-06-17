@@ -52,7 +52,7 @@ Odin também é utilizada na criação de ferramentas de sistema, como compilado
 
 -----
 # ✅Escopo, variáveis e tipos de dados; 
-
+oioioi
 ------
 # ✅Estruturas de controle (decisão e repetição);
 ----
